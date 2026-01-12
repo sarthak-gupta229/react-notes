@@ -4,14 +4,16 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import "./style.css";
 import Login from "./Login";
-import Layout  from "./layout";
+import Layout from "./layout";
 
 function App() {
   const [count, setCount] = useState(0);
 
-  return <>
-      
-  </>;
+  return (
+    <>
+   
+    </>
+  );
 }
 
 export default App;
